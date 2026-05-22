@@ -1,5 +1,5 @@
 /**
- V2: Se .task()
+ V2: Se usa .task()
     - Al navegar atrás, loadDestinationInfo se cancela
     - calculateFlightCosts y calculateHotelCosts siguen ejecutándose
     - ViewModel se destruye cuando acaban las tasks calculateFlightCosts y calculateHotelCosts
